@@ -1,0 +1,8 @@
+{
+    "vscode-janus-debug.uploadManually": [
+        "listado.component"
+    ],
+    "vscode-janus-debug.uploadOnSave": [
+        "heroes.module"
+    ]
+}
